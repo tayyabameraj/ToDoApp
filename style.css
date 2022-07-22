@@ -1,0 +1,22 @@
+button{
+    background: rgb(77, 77, 255);
+    color: #fff;
+    border: 0;
+    padding: 10px 40px;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+button:hover{
+    background: rgb(4, 4, 255)
+}
+.btn{
+    margin-left: 20px;
+}
+input{
+    width: 300px;
+    padding: 7px 20px;
+    border-radius: 20px;
+    border: 1px solid rgb(77, 77, 255);
+    outline: 0; 
+}
